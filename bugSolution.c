@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; int y = *ptr; //assign to a temp variable then use it y = 20; x = y; //assign the value of temp variable to x printf("%d", x); return 0; }

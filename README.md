@@ -1,0 +1,1 @@
+# Unexpected Pointer Behavior in C This repository demonstrates a subtle but important bug in C programming related to pointer manipulation. The `bug.c` file shows the erroneous code.  The `bugSolution.c` file provides the corrected code along with explanations.
